@@ -147,6 +147,7 @@ A collection of awesome things regarding React ecosystem.
 * [React cheatsheet](https://devhints.io/react)
 * [Codecademy Learn ReactJS Course](https://www.codecademy.com/pt/learn/react-101)
 * [Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
+* [Getting Started with ReactHooks](https://reactjs.org/docs/hooks-intro.html)
 
 ##### React best practices
 
